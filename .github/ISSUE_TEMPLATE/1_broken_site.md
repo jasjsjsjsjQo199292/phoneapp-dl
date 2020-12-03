@@ -1,3 +1,8 @@
+---
+name: Broken site support
+about: Report broken or misfunctioning site
+title: ''
+---
 put x into all relevant boxes (like this [x])
 -->
 
