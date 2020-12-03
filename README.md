@@ -1,2 +1,2 @@
 # phoneapp-dl
-Download apk or ipa file from apk site
+phoneapp-dl is a apk and ipa site downloader
